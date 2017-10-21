@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="numero">55 º</string>
+    <string name="nompart">PARTLY SUNNY</string>
+    <string name="nomgrad">H:55º  L:48º</string>
+    <string name="nom1">87 º</string>
+    <string name="nom2">7 Days</string>
+    <string name="nom3">SAT</string>
+    <string name="nom4">63º/50º</string>
+    <string name="nom5">A COUPLE OF SHOWERS</string>
+    <string name="nom6">A COUPLE OF</string>
+    <string name="nom8">SHOWERS</string>
+    <string name="name1">OCCASIONAL</string>
+    <string name="name2">RAIN AND</string>
+    <string name="nom12">SUN</string>
+    <string name="nom13">MON</string>
+    <string name="nom14">TUE</string>
+    <string name="nom9">87%</string>
+    <string name="nom45">15MPH</string>
+    <string name="nom48">SSE</string>
+</resources>
